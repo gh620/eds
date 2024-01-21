@@ -4,7 +4,7 @@
 \alias{pad_with_NAs}
 \title{Add NAs to a vector}
 \usage{
-pad_with_NAs(x, n_left = 1, n_right = 1)
+pad_with_NAs(x, n_left, n_right)
 }
 \arguments{
 \item{x}{Vector to which NAs will be added.}
